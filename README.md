@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DuanInnovator&theme=radical" width="400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dainoar&theme=radical" width="400" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| **[SuperAutoStudy](https://github.com/DuanInnovator/SuperAutoStudy)**<br>![Stars](https://img.shields.io/github/stars/DuanInnovator/SuperAutoStudy?style=social) | 超星学习通智能刷课平台：支持倍速播放、自动答题、接入百万级题库 + 大模型 | Java, Spring Boot, RabbitMQ, Redis, Dubbo, LLM |
+| **[SuperAutoStudy](https://github.com/Dainoar/SuperAutoStudy)**<br>![Stars](https://img.shields.io/github/stars/Dainoar/SuperAutoStudy?style=social) | 超星学习通智能刷课平台：支持倍速播放、自动答题、接入百万级题库 + 大模型 | Java, Spring Boot, RabbitMQ, Redis, Dubbo, LLM |
 
 ---
 
