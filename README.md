@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Java & Go Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuanInnovator&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?usernameDainoar&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuanInnovator&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanInnovator&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dainoar&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dainoar&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
